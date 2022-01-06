@@ -1,0 +1,7 @@
+222222222222222 - Document number must start with sequences 'contract' or 'docnum'!
+docnum        1 - Document number contains invalid characters!
+contract1 - The document number must be 15 characters long!
+contract!71231! - Document number contains invalid characters!
+erz - The document number must be 15 characters long!
+wrong docnum - The document number must be 15 characters long!
+111111111111111 - Document number must start with sequences 'contract' or 'docnum'!
