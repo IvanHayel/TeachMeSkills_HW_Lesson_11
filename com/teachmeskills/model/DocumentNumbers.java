@@ -65,12 +65,4 @@ public class DocumentNumbers {
             return "Document number contains invalid characters!";
         }
     }
-
-    @Override
-    public String toString() {
-        return "DocumentNumbers{" +
-                "document numbers = " + documentNumbers +
-                ", wrong document numbers = " + wrongDocumentNumbers +
-                '}';
-    }
 }
